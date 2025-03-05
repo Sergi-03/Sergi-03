@@ -5,8 +5,6 @@
 
 - 🌱 Me gustaría aprender tecnologías nuevas, entre ellas **Tailwind, TypeScript**
 
-- 🧑‍💼 LinkedIn [https://www.linkedin.com/in/sergi-segarra-garcía]
-
 - 📫 Email de contacto **ssegarragarcia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
