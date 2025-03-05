@@ -1,4 +1,7 @@
 <h1 align="center">Hola! Mi nombre es Sergi</h1>
+
+![Github-profile-1](https://github.com/user-attachments/assets/5d4eb1e6-83ae-4862-9950-f0fbc54ed62b)
+
 <h3 align="center">Apasionado desarrollador Full Stack Español</h3>
 
 - 🔭 Actualmente estoy trabajando en completar aún más el proyecto en grupo más grande que he hecho hasta el momento [ERP](https://github.com/Sergi-03/ERP-ASA-final-project)
