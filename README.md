@@ -3,6 +3,8 @@
 
 - 🔭 Actualmente estoy trabajando en completar aún más el proyecto en grupo más grande que he hecho hasta el momento [ERP](https://github.com/Sergi-03/ERP-ASA-final-project)
 
+- 💻 Estoy abierto a colaborar en proyectos desafiantes donde pueda aplicar mis habilidades de desarrollo Full Stack, aprender de nuevos enfoques y contribuir a soluciones innovadoras
+
 - 🌱 Me gustaría aprender tecnologías nuevas, entre ellas **Tailwind, TypeScript**
 
 - 📫 Email de contacto **ssegarragarcia@gmail.com**
