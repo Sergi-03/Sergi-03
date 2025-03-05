@@ -8,7 +8,7 @@
 
 - 💻 Estoy abierto a colaborar en proyectos desafiantes donde pueda aplicar mis habilidades de desarrollo Full Stack, aprender de nuevos enfoques y contribuir a soluciones innovadoras
 
-- 🌱 Me gustaría aprender tecnologías nuevas, entre ellas **Tailwind, TypeScript**
+- 🌱 Me gustaría aprender tecnologías nuevas, entre ellas **Tailwind y TypeScript**
 
 - 📫 Email de contacto **ssegarragarcia@gmail.com**
 
