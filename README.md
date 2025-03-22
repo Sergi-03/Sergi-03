@@ -52,9 +52,12 @@
   <img src="https://streak-stats.demolab.com?user=Sergi-03&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph" />
 </p>
 
-<img src="assetss/borderseperator.gif">
+<img src="assets/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
 
 <p align="center">
   <a href="mailto:ssegarragarcia@gmail.com">
