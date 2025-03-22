@@ -54,10 +54,6 @@
 
 <img src="assets/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
 
 <p align="center">
   <a href="mailto:ssegarragarcia@gmail.com">
