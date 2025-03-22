@@ -63,7 +63,8 @@
   <a href="https://www.linkedin.com/in/sergi-segarra-garcía" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
-</p>
-<a href="https://profile-summary-for-github.herokuapp.com/user/Sergi-03" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/Sergi-03" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
   </a> &nbsp;&nbsp;
+</p>
+
