@@ -1,6 +1,5 @@
-<h1 align="center">Hola! Mi nombre es Sergi</h1>
-
-![Github-profile-1](https://github.com/user-attachments/assets/5d4eb1e6-83ae-4862-9950-f0fbc54ed62b)
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Soy+Sergi+bienvenid@+a+mi+perfil!" align="middle" alt="Hey, Soy Sergi, bienvenid@ a mi perfil! animated typed out">
+<img src="assets/borderseperator.gif">
 
 <h3 align="center">Apasionado desarrollador Full Stack Español</h3>
 
