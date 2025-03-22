@@ -58,9 +58,9 @@
 
 <p align="center">
   <a href="mailto:ssegarragarcia@gmail.com">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sergi-segarra-garcía" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
 </p>
