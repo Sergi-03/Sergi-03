@@ -51,6 +51,10 @@
   <img src="https://streak-stats.demolab.com?user=Sergi-03&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph" />
 </p>
 
+<p align="center">
+<img src="assets/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
+
 <img src="assets/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
 
