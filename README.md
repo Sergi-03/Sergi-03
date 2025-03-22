@@ -9,10 +9,6 @@
 - 🌱 Me gustaría aprender tecnologías nuevas, entre ellas **Tailwind y TypeScript**.
 - 📫 Email de contacto: **ssegarragarcia@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sergi-segarra-garcía" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergi segarra garcía" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,17 +25,17 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center"> Aprendiendo activamente </h2>
+<h2 align="center"> Actively learning </h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,postgresql" alt="actively learning" />
 </p>
 
-<h2 align="center"> Quiero aprender </h2>
+<h2 align="center"> Plan to learn </h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,tailwind" alt="plan to learn" />
 </p>
 
-<h2 align="center"> Mis stats de GitHub </h2>
+<h2 align="center"> My GitHub stats </h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sergi-03&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 </p>
@@ -56,6 +52,10 @@
   <img src="https://streak-stats.demolab.com?user=Sergi-03&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph" />
 </p>
 
+<img src="assetss/borderseperator.gif">
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+
 <p align="center">
   <a href="mailto:ssegarragarcia@gmail.com">
     <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
@@ -64,3 +64,6 @@
     <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
 </p>
+<a href="https://profile-summary-for-github.herokuapp.com/user/Sergi-03" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
+  </a> &nbsp;&nbsp;
