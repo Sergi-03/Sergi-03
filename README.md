@@ -27,7 +27,7 @@
 
 <h2 align="center"> Actively learning </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,postgresql" alt="actively learning" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,postgresql" alt="actively learning" />
 </p>
 
 <h2 align="center"> Plan to learn </h2>
