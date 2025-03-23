@@ -36,6 +36,7 @@
 </p>
 
 <h2 align="center"> My GitHub stats </h2>
+<img src="assets/borderseperator.gif">
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sergi-03&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 </p>
