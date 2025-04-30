@@ -3,7 +3,8 @@
 
 <h3 align="center">Apasionado desarrollador Full Stack Español</h3>
 
-- 🔭 Actualmente estoy trabajando en completar aún más el proyecto en grupo más grande que he hecho hasta el momento [ERP](https://github.com/Sergi-03/ERP-ASA-final-project), también estoy trabajando en mi primer freelance, una web independiente de seguros.
+- ✍️ Actualmente estoy enfocado en seguir mejorando como desarrollador, puliendo habilidades en lógica de programación, buenas prácticas y escritura de código claro y funcional. Me gusta aprender haciendo, así que dedico tiempo a proyectos personales y a mejorar lo que ya he construido.
+Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
 - 💻 Estoy abierto a colaborar en proyectos desafiantes donde pueda aplicar mis habilidades de desarrollo Full Stack, aprender de nuevos enfoques y contribuir a soluciones innovadoras.
 - 🌱 Me gustaría aprender tecnologías nuevas, entre ellas **Tailwind y TypeScript**.
 
