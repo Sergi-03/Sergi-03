@@ -14,21 +14,21 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-  <img src="https://vectorified.com/images/express-js-icon-34.png?i=express" alt="express" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg?i=node" alt="node" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 </p>
 
 
 <h2 align="center"> Actively learning </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=node,express,js,react,postgresql" alt="actively learning" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,react,postgresql" alt="actively learning" />
 </p>
 
 <h2 align="center"> Plan to learn </h2>
