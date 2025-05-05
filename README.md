@@ -14,21 +14,21 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/A7GJ5THcTpFPWcmPj5p4SzWNY-sBRMr8heNge6jawIE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9leHByZXNz/LWljb24tMjA0OHg1/OTMtb296cjkxNm4u/cG5n" alt="flask" width="40" height="40"/>
+  <img src="https://vectorified.com/images/express-js-icon-34.png" alt="express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="python" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="node" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 </p>
 
 
 <h2 align="center"> Actively learning </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,postgresql" alt="actively learning" />
+  <img src="https://skillicons.dev/icons?i=node,express,js,react,postgresql" alt="actively learning" />
 </p>
 
 <h2 align="center"> Plan to learn </h2>
