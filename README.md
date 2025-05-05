@@ -28,7 +28,7 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
 
 <h2 align="center"> Actively learning </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=node,express,js,react,postgresql" alt="actively learning" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,react,postgresql" alt="actively learning" />
 </p>
 
 <h2 align="center"> Plan to learn </h2>
