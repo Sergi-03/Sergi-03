@@ -21,7 +21,7 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
   <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=node" alt="node" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/DZqhRgeja0LEjMFzA0X2-Qs5Ak3QhrSO28PvuhFRmvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9ub2RlLWpz/LWljb24tNDU0eDUx/Mi1uenRvZngxNy5w/bmc" alt="node" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 </p>
 
