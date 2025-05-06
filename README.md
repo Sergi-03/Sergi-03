@@ -68,7 +68,7 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
   <a href="mailto:ssegarragarcia@gmail.com">
     <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sergi-segarra-garcía" target="_blank">
+  <a href="https://www.linkedin.com/in/sergi-segarra-garcia" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
   <a href="https://profile-summary-for-github.herokuapp.com/user/Sergi-03" target="_blank">
