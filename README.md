@@ -42,9 +42,6 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
   <img src="https://github-profile-trophy.vercel.app/?username=Sergi-03&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 </p>
   
-<p align="center">
-  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=Sergi-03&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats2-olive.vercel.app/api?username=Sergi-03&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
