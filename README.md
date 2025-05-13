@@ -6,7 +6,7 @@
 - ✍️ Actualmente estoy enfocado en seguir mejorando como desarrollador, puliendo habilidades en lógica de programación, buenas prácticas y escritura de código claro y funcional. Me gusta aprender haciendo, así que dedico tiempo a proyectos personales y a mejorar lo que ya he construido.
 Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
 - 💻 Estoy abierto a colaborar en proyectos desafiantes donde pueda aplicar mis habilidades de desarrollo Full Stack, aprender de nuevos enfoques y contribuir a soluciones innovadoras.
-- 🌱 Actualmente estoy profundizando en **Node.js y Express**, me gustaría aprender además otras tecnologías, entre ellas **Tailwind y TypeScript**.
+- 🌱 Actualmente estoy profundizando en **Node.js Express y Prisma ORM**, me gustaría aprender además otras tecnologías, entre ellas **Tailwind y TypeScript**.
 
 
 
