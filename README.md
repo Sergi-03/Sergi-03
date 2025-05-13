@@ -20,6 +20,7 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
   <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
@@ -28,7 +29,7 @@ Siempre estoy abierto a nuevas ideas, retos y formas de crecer como programador.
 
 <h2 align="center"> Actively learning </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,react,postgresql" alt="actively learning" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,react,postgresql,prisma" alt="actively learning" />
 </p>
 
 <h2 align="center"> Plan to learn </h2>
