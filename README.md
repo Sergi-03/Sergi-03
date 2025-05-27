@@ -3,7 +3,7 @@
 
 <h3 align="center">Apasionado desarrollador Full Stack Español</h3>
 
-- ✍️ Actualmente estoy trabajando en *LocalBiz Directory*, un directorio inteligente de negocios locales que combina geolocalización, filtros avanzados, reseñas reales y un mapa interactivo.
+- ✍️ Actualmente estoy trabajando en *Revlo Directory*, un directorio inteligente de negocios locales que combina geolocalización, filtros avanzados, reseñas reales y un mapa interactivo.
 - 💻 Estoy abierto a colaborar en proyectos desafiantes donde pueda aplicar mis habilidades de desarrollo Full Stack, aprender de nuevos enfoques y contribuir a soluciones innovadoras.
 - 🌱 Me gustaría aprender otras tecnologías, entre ellas **Tailwind y TypeScript**.
 
