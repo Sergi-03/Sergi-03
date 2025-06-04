@@ -13,16 +13,18 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/>
 </p>
 
 
@@ -33,7 +35,7 @@
 
 <h2 align="center"> Plan to learn </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,tailwind" alt="plan to learn" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="plan to learn" />
 </p>
 
 <h2 align="center"> My GitHub stats </h2>
