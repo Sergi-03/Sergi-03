@@ -5,7 +5,7 @@
 
 - ✍️ Actualmente estoy trabajando en *Revlo Directory*, un directorio inteligente de negocios locales que combina geolocalización, filtros avanzados, reseñas reales y un mapa interactivo.
 - 💻 Estoy abierto a colaborar en proyectos desafiantes donde pueda aplicar mis habilidades de desarrollo Full Stack, aprender de nuevos enfoques y contribuir a soluciones innovadoras.
-- 🌱 Me gustaría aprender otras tecnologías, entre ellas **Tailwind y TypeScript**.
+- 🌱 Me gustaría aprender otras tecnologías, entre ellas **NestJS y TypeScript**.
 
 
 
@@ -35,7 +35,7 @@
 
 <h2 align="center"> Plan to learn </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" alt="plan to learn" />
+  <img src="https://skillicons.dev/icons?i=nestjs,ts" alt="plan to learn" />
 </p>
 
 <h2 align="center"> My GitHub stats </h2>
